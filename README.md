@@ -8,7 +8,7 @@
 
 ``` bash
 # 安装音乐播放器组件
-npm install vue-music-component --save
+npm install vue-music-component -s
 
 # 引入组件
 import Music from 'vue-music-component'
@@ -25,7 +25,7 @@ musicList：包含音乐资源的数组
     src: 歌曲资源地址,
     lrcSrc: 歌词资源地址,
     pic_small: 歌曲图片资源地址
-iNow：进入后显示的歌曲索引，表示数组中的第iNow首歌曲被显示在界面上
+iNow：进入后显示的歌曲索引，表示数组中的第iNow首歌曲被显示在界面上,最开始一定要设置成null，随后在获取到音乐资源以后在修改iNow的值
 isPlay：是否自动播放
 ```
 
