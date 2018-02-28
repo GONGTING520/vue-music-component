@@ -1,8 +1,8 @@
 {
   "name": "vue-music-component",
-  "version": "1.0.3",
+  "version": "1.1.6",
   "description": "A music player component that contains the basic function of the player. It can set the player width, height and autoplay or not.",
-  "main": "dist/vue-music-component.min.js",
+  "main": "src/Music.vue",
   "author": "gongting",
   "private": false,
   "scripts": {
