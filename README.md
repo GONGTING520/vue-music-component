@@ -2,11 +2,11 @@
 
 > 一个音乐播放器组件，包含播放器的基本功能，可以设置播放器宽高，可以设置是否自动播放
 
+ ![image](./static/music.png) 
+
 ## Build Setup
 
 首先确保项目安装了axios
-
- ![image](./static/music.png) 
 
 ``` bash
 # 安装音乐播放器组件
