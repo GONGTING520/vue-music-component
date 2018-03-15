@@ -6,6 +6,8 @@
 
 首先确保项目安装了axios
 
+ ![image](./static/music.png) 
+
 ``` bash
 # 安装音乐播放器组件
 npm install vue-music-component -s
